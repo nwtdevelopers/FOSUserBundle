@@ -1,7 +1,7 @@
 {
-    "name": "smelikmartin/user-bundle",
+    "name": "friendsofsymfony/user-bundle",
     "type": "symfony-bundle",
-    "description": "Fork of Symfony FOSUserBundle",
+    "description": "Symfony FOSUserBundle",
     "keywords": [
         "User management"
     ],
